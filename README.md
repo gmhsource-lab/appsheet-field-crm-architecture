@@ -20,7 +20,6 @@ Scalability: The system is built to scale horizontally, allowing new organizatio
 ✨ Core Functionalities
 Offline-First Data Capture: Engineered for remote site work where cellular service is unreliable; features full offline data sync capabilities.
 
-Automated Document Engine: Integrated with Google Apps Script to trigger automated PDF generation (Quotes/Invoices) based on field data entries.
 
 Operational Intelligence: Real-time dashboards providing management with visibility into project progress, labor burden, and profit margins.
 
@@ -28,7 +27,5 @@ Operational Intelligence: Real-time dashboards providing management with visibil
 Org IDs: The master gatekeeper table managing company-level access and permissions.
 
 Project Sites: Tracks physical locations, GPS data, and site-specific safety logs.
-
-Bill of Quantities (BOQ): Relational itemized costs linked directly to the document generation engine.
 
 Companies & Clients: Separate tables to distinguish between service providers and end-customers.
